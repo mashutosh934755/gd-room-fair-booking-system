@@ -1,6 +1,6 @@
-# WordPress Multi-Room Booking Guard
+# Group Discussion (GD) Booking Control System
 
-WordPress MU-plugin set for managing fair-use booking rules across multiple GD / meeting rooms that use separate WordPress installations and Booking Calendar databases.
+WordPress MU-plugin set for managing booking-control and fair-use rules across multiple Group Discussion (GD) / meeting rooms that use separate WordPress installations and Booking Calendar databases.
 
 The main plugin prevents duplicate participation across rooms by checking the booking date, time slot, requester identity, and group-member identities before a booking is accepted.
 
