@@ -1,0 +1,5 @@
+7c23578d8b77d2f7fb188984f6a951faaa8938d28ddc6adc58839a1c3a16b486  ./core/00-bu-gd-final-duplicate-blocker.php
+78b87cc74b73177a0a0bc81003a26f050638147bd741c20c646da682659b49a8  ./core/zz-gd-force-12hour-timeslot-display.php
+cfba4d132fd6ace8c14e90b1fda000f1b1d139fa844a93b7615275ef68ddba3c  ./core/zz-gd-force-custom-ui-slots.php
+fe952473f40770aee018a96cea16850bbdc72764982d2d008fd3e29084760d0d  ./core/zz-gd-force-purpose-members-ui.php
+ededb13d9d617d7297c2685115bdb9be296ad21a7b00698fd0b0589364a01610  ./core/zzzz-gd-member-ui-vertical-fix.php
