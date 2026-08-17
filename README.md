@@ -145,13 +145,13 @@ If your institution uses a different enrollment format, update `bu_gd_xroom_enro
 
 ### Mobile number
 
-Version 2.0.1 normalizes common Indian mobile formats to the final 10-digit number, including formats such as:
+Version 2.0.1 normalizes common Indian mobile formats to the final 10-digit number. Public documentation intentionally uses masked examples rather than real-looking phone numbers:
 
 ```text
-9876543210
-09876543210
-919876543210
-+91 98765 43210
+98XXXXXXXX
+098XXXXXXXX
+9198XXXXXXXX
++91 98XXX XXXXX
 ```
 
 Only valid-looking Indian mobile numbers beginning with `6`, `7`, `8`, or `9` are retained.
