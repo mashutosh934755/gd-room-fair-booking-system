@@ -1,4 +1,4 @@
-# GD Room Cross-Room Fair Booking Plugin
+# WordPress Multi-Room Booking Guard
 
 WordPress MU-plugin set for managing fair-use booking rules across multiple GD / meeting rooms that use separate WordPress installations and Booking Calendar databases.
 
